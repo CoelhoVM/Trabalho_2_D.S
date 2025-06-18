@@ -2,14 +2,14 @@
 layout: home
 
 hero:
-  name: Trabalho 2 - D.S 
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: Sistema de Gestão Integrada – Pet Shop PetLand
+  text: Um sistema completo para gerenciar pets, atendimentos e serviços veterinários.
+  tagline: Desenvolvido com foco em usabilidade, organização e eficiência. Ideal para pet shops modernos.
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: Ver Funcionalidades
+      link: /2_Descrição do Projeto
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Código no GitHub
+      link: https://github.com/CoelhoVM/Trabalho_2_D.S.git
 ---
