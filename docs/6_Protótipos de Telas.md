@@ -15,3 +15,8 @@
 ## Tela de Produtos
 
 <img src="/Produtos.png" alt="Canvas do Projeto" style="width: 100%; margin-top: 30px" />
+
+## Tela de Serviços
+
+<img src="/Serviços.png" alt="Canvas do Projeto" style="width: 100%; margin-top: 30px" />
+

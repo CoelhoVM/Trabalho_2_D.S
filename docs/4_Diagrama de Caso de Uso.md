@@ -2,6 +2,88 @@
 
 <img src="/Diagrama_PetShop-Diagrama de Caso de Uso.drawio.png" alt="Canvas do Projeto" style="width: 100%; margin-top: 30px" />
 
+### Atores
+
+- **Cliente** 
+
+- **Funcionário (Atendente/Administrador)**
+
+- **Sistema de Pagamento Externo (opcional, se modelar integrações)**
+
+### Casos de Uso Principais por Ator:
+
+#### Cliente:
+
+- Cadastrar-se no sistema
+
+- Autenticar-se (login)
+
+- Cadastrar pet
+
+- Visualizar pets cadastrados
+
+- Agendar serviço
+
+- Cancelar agendamento
+
+- Reagendar serviço
+
+- Consultar agenda disponível
+
+- Visualizar histórico de serviços
+
+- Receber notificações
+
+- Adicionar produto ao carrinho
+
+- Finalizar compra
+
+- Selecionar forma de retirada
+
+- Realizar pagamento
+
+- Atualizar dados cadastrais
+
+### Funcionário (Atendente/Admin):
+
+- Autenticar-se
+
+- Cadastrar cliente (alternativamente)
+
+- Visualizar agenda geral
+
+- Agendar serviço para cliente
+
+- Cancelar ou reagendar serviço
+
+- Atribuir profissional ao serviço
+
+- Registrar realização do serviço
+
+- Gerenciar estoque de produtos
+
+- Visualizar histórico de clientes e pets
+
+- Enviar notificação manual (quando necessário)
+
+### Profissional de Serviço:
+
+- Visualizar serviços atribuídos
+
+- Atualizar status do serviço (realizado, cancelado etc.)
+
+### Sistema de Pagamento Externo (opcional):
+
+- Processar pagamento
+
+- Retornar status da transação
+
+### Relações entre Casos de Uso (Notações UML):
+
+- include: uso obrigatório como parte de outro caso
+
+- extend: uso opcional, executado sob certas condições
+
 ## 4.1 Descrição de Caso de Uso
 
 ### Caso de Uso 1: Cadastrar Cliente
